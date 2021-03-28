@@ -1,0 +1,16 @@
+{
+  "name": "project-13-azure-rasp-pi-health-checker",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "googleapis": "^68.0.0",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.5.0"
+  },
+  "devDependencies": {}
+}
